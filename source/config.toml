@@ -2,6 +2,7 @@ baseURL = "https://shanedavis.net/"
 languageCode = "en-us"
 title = "shanedavis.net"
 theme = "m10c"
+googleAnalytics = "UA-75233516-1"
 
 [params]
   author = "Shane Davis"
