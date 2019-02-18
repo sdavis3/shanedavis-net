@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on shanedavis.net</title>
+    <link>https://shanedavis.net/tags/architecture/</link>
+    <description>Recent content in Architecture on shanedavis.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shanedavis.net/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>14 Engineering Blogs I Love</title>
+      <link>https://shanedavis.net/posts/2017-03-31-14-engineering-blogs-i-love/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2017-03-31-14-engineering-blogs-i-love/</guid>
+      <description>I love technical engineering blogs. I find it fascinating and incredibly educational that individuals (and organizations) are willing to share the innermost personal details of the trials and tribulations of developing technology solutions. I especially enjoy when a team is willing to publish their personal failures and the lessons learned for all to see. There&amp;rsquo;s so much we can learn from the experiences of our peers.
+Kilim Choi maintains an awesome (and exhaustive) list of engineering blogs in a Github repo at https://github.</description>
+    </item>
+    
+    <item>
+      <title>When is Software Architecture Done?</title>
+      <link>https://shanedavis.net/posts/2016-12-14-when-is-software-architecture-done/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2016-12-14-when-is-software-architecture-done/</guid>
+      <description>Often, when reviewing software project plans, I see “architecture” as a phase early in the project. It&amp;rsquo;s typically positioned somewhere after the project kickoff and before coding begins. It’s sometimes the phase in the plan where some level of experimentation occurs, but has a clearly defined end date.
+ “No battle plan survives contact with the enemy.” – Helmuth von Moltke the Elder
+ In an agile world, this model rarely works.</description>
+    </item>
+    
+    <item>
+      <title>Performance and Scalability often get confused</title>
+      <link>https://shanedavis.net/posts/2016-01-20-performance-and-scalability-often-get-confused/</link>
+      <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2016-01-20-performance-and-scalability-often-get-confused/</guid>
+      <description>During some recent (geek) conversations, I noted how easy it was to confuse the term &amp;ldquo;performance&amp;rdquo; with &amp;ldquo;scalability&amp;rdquo;. In the technology world, it&amp;rsquo;s important to know the difference, because they are not the same.
+Simply put, performance is what an individual user experiences and scalability is how many users get to experience it.
+Performance relates to the experience a single visitor or user has on your website, for example. A single request might include some data access, a web page, and some images that need to be delivered to your browser.</description>
+    </item>
+    
+  </channel>
+</rss>

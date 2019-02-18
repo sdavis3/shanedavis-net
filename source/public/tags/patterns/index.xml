@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patterns on shanedavis.net</title>
+    <link>https://shanedavis.net/tags/patterns/</link>
+    <description>Recent content in Patterns on shanedavis.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shanedavis.net/tags/patterns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Valet Key Pattern</title>
+      <link>https://shanedavis.net/posts/2015-12-30-valet-key-pattern/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2015-12-30-valet-key-pattern/</guid>
+      <description>I recently bought a new car and it came with a valet key. It&amp;rsquo;s designed to secure the interior storage compartment of a car while still providing access for the car to be driven by someone other than the owner. The valet key is useful when you wish to temporarily allow some access, but do not wish to grant full access. In the application architecture world, there&amp;rsquo;s a design pattern with the same name that aims to increase the security and scale of your application.</description>
+    </item>
+    
+  </channel>
+</rss>

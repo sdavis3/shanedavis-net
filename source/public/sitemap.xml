@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://shanedavis.net/posts/2019-01-16-considerations-for-a-successful-multi-cloud-strategy/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/posts/2017-03-31-14-engineering-blogs-i-love/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/posts/2016-12-17-how-does-my-it-org-get-started-with-the-cloud/</loc>
+    <lastmod>2016-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/posts/2016-12-15-using-microsoft-flow-to-monitor-failed-builds-in-vsts/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/posts/2016-12-14-when-is-software-architecture-done/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/posts/2016-03-24-vscode-font-settings/</loc>
+    <lastmod>2016-03-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/posts/2016-01-20-performance-and-scalability-often-get-confused/</loc>
+    <lastmod>2016-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/posts/2015-12-30-valet-key-pattern/</loc>
+    <lastmod>2015-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/posts/2015-05-29-speed-to-value-not-speed-to-project-delivery/</loc>
+    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/architecture/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/blogs/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/cloud/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/devops/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/engineering/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/patterns/</loc>
+    <lastmod>2015-12-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/posts/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/strategy/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/</loc>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/value/</loc>
+    <lastmod>2015-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/vscode/</loc>
+    <lastmod>2016-03-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/tags/vsts/</loc>
+    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shanedavis.net/</loc>
+    <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

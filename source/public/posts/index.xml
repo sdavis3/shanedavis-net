@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on shanedavis.net</title>
+    <link>https://shanedavis.net/posts/</link>
+    <description>Recent content in Posts on shanedavis.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shanedavis.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Considerations for a Successful Multi-Cloud Strategy</title>
+      <link>https://shanedavis.net/posts/2019-01-16-considerations-for-a-successful-multi-cloud-strategy/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2019-01-16-considerations-for-a-successful-multi-cloud-strategy/</guid>
+      <description>According to RightScale&amp;rsquo;s 2018 State of the Cloud Report, 81% of enterprises have a multi-cloud strategy. Of those, 21% with a multi-cloud (also known as polynimbus) strategy, have designed it for use with multiple public clouds like Amazon Web Services, Google and Microsoft. More simply put, having a multi-cloud strategy, is an indication that an enterprise plan to use two or more cloud computing services.
+In 2019, the steps required to move an application to the cloud are commonly understood, though it may not always be simple.</description>
+    </item>
+    
+    <item>
+      <title>14 Engineering Blogs I Love</title>
+      <link>https://shanedavis.net/posts/2017-03-31-14-engineering-blogs-i-love/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2017-03-31-14-engineering-blogs-i-love/</guid>
+      <description>I love technical engineering blogs. I find it fascinating and incredibly educational that individuals (and organizations) are willing to share the innermost personal details of the trials and tribulations of developing technology solutions. I especially enjoy when a team is willing to publish their personal failures and the lessons learned for all to see. There&amp;rsquo;s so much we can learn from the experiences of our peers.
+Kilim Choi maintains an awesome (and exhaustive) list of engineering blogs in a Github repo at https://github.</description>
+    </item>
+    
+    <item>
+      <title>How does my IT organization get started with the cloud?</title>
+      <link>https://shanedavis.net/posts/2016-12-17-how-does-my-it-org-get-started-with-the-cloud/</link>
+      <pubDate>Sat, 17 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2016-12-17-how-does-my-it-org-get-started-with-the-cloud/</guid>
+      <description>The demands of the digital age now require your IT organization to be fluent in Big data, Internet of things, Mobile accessibility, and Cloud computing. These new demands translate to more resources, more time, and more money which are precious resources most IT organizations don’t have.
+Creating a flexible IT environment doesn’t have to be time consuming or expensive. It’s a simple 4-step process of migrating the following things:
+ Low-risk applications Dev-test apps Big data &amp;amp; IoT operations Your current production systems  Low-risk applications typically occupy 50-70% of a company’s storage needs and are often access once or twice per year for compliance reasons.</description>
+    </item>
+    
+    <item>
+      <title>Using Microsoft Flow to Monitor Failed Builds in VSTS</title>
+      <link>https://shanedavis.net/posts/2016-12-15-using-microsoft-flow-to-monitor-failed-builds-in-vsts/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2016-12-15-using-microsoft-flow-to-monitor-failed-builds-in-vsts/</guid>
+      <description>Microsoft Flow is a wonderful productivity tool growing in popularity. It&amp;rsquo;s very similar to IFTTT, but not (yet) quite as polished. If you&amp;rsquo;re familiar with IFTTT&amp;rsquo;s recipe concept, then you already understand 80% of Microsoft Flow. Nevertheless, there are some great productivity improvements gained from using Flow by connecting it to services you are already using.
+In this post, I&amp;rsquo;ll create a Flow to send a push notification for a failed build in Visual Studio Team Services (VSTS).</description>
+    </item>
+    
+    <item>
+      <title>When is Software Architecture Done?</title>
+      <link>https://shanedavis.net/posts/2016-12-14-when-is-software-architecture-done/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2016-12-14-when-is-software-architecture-done/</guid>
+      <description>Often, when reviewing software project plans, I see “architecture” as a phase early in the project. It&amp;rsquo;s typically positioned somewhere after the project kickoff and before coding begins. It’s sometimes the phase in the plan where some level of experimentation occurs, but has a clearly defined end date.
+ “No battle plan survives contact with the enemy.” – Helmuth von Moltke the Elder
+ In an agile world, this model rarely works.</description>
+    </item>
+    
+    <item>
+      <title>Visual Studio Code Font Settings</title>
+      <link>https://shanedavis.net/posts/2016-03-24-vscode-font-settings/</link>
+      <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2016-03-24-vscode-font-settings/</guid>
+      <description>Every time I setup a new device, one of the first applications I install is Visual Studio Code. Without fail, I always forget how to customize the font settings.
+Once Visual Studio Code is open, go to File &amp;gt; Preferences &amp;gt; User Settings. Then, you can override the JSON object. Remember: User Settings are per user. There&amp;rsquo;s also an option for Workspace Settings, which are useful for when you want to only affect a specific project.</description>
+    </item>
+    
+    <item>
+      <title>Performance and Scalability often get confused</title>
+      <link>https://shanedavis.net/posts/2016-01-20-performance-and-scalability-often-get-confused/</link>
+      <pubDate>Wed, 20 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2016-01-20-performance-and-scalability-often-get-confused/</guid>
+      <description>During some recent (geek) conversations, I noted how easy it was to confuse the term &amp;ldquo;performance&amp;rdquo; with &amp;ldquo;scalability&amp;rdquo;. In the technology world, it&amp;rsquo;s important to know the difference, because they are not the same.
+Simply put, performance is what an individual user experiences and scalability is how many users get to experience it.
+Performance relates to the experience a single visitor or user has on your website, for example. A single request might include some data access, a web page, and some images that need to be delivered to your browser.</description>
+    </item>
+    
+    <item>
+      <title>Valet Key Pattern</title>
+      <link>https://shanedavis.net/posts/2015-12-30-valet-key-pattern/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2015-12-30-valet-key-pattern/</guid>
+      <description>I recently bought a new car and it came with a valet key. It&amp;rsquo;s designed to secure the interior storage compartment of a car while still providing access for the car to be driven by someone other than the owner. The valet key is useful when you wish to temporarily allow some access, but do not wish to grant full access. In the application architecture world, there&amp;rsquo;s a design pattern with the same name that aims to increase the security and scale of your application.</description>
+    </item>
+    
+    <item>
+      <title>Speed to Value, Not Speed to Project Delivery</title>
+      <link>https://shanedavis.net/posts/2015-05-29-speed-to-value-not-speed-to-project-delivery/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2015-05-29-speed-to-value-not-speed-to-project-delivery/</guid>
+      <description>To be successful in a Corporate IT environment, we need to measure speed in terms of the time it takes for the business to realize the expected business value and not in terms of the project start and completion dates.
+By exclusively rewarding IT teams for getting projects done &amp;ldquo;on time and on budget&amp;rdquo;, it fails to encourage the one thing business leaders most want from their Corporate IT teams: speed to deliver business value.</description>
+    </item>
+    
+  </channel>
+</rss>

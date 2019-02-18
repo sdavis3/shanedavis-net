@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta content='text/html; charset=utf-8' http-equiv='content-type' />
+
+  <title>Visual Studio Code Font Settings - shanedavis.net</title>
+  <meta content='Visual Studio Code Font Settings - shanedavis.net' property='title' />
+  <meta content='Visual Studio Code Font Settings - shanedavis.net' property='og:title' />
+
+
+<meta property="og:description" content="Every time I setup a new device, one of the first applications I install is Visual Studio Code. Without fail, I always forget how to customize the font settings.
+Once Visual Studio Code is open, go to File &gt; Preferences &gt; User Settings. Then, you can override the JSON object. Remember: User Settings are per user. There&rsquo;s also an option for Workspace Settings, which are useful for when you want to only affect a specific project." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://shanedavis.net/posts/2016-03-24-vscode-font-settings/" />
+
+
+<meta property="article:published_time" content="2016-03-24T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2016-03-24T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.54.0" />
+
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet">
+<style type="text/css">/*https://coolors.co/afd5aa-f0f2ef-a69f98-3d3d3d-8c6057*/
+:root {
+  --main-color: rgb(11, 32, 156); 
+  --secondary-color: rgb(28, 129, 224);
+  --logo-text-color: #fff;
+  --body-text-color: #3d3d3d;
+  --heading-text-color: #383838;
+  --background-color: #fff;
+}</style>
+<link href='/css/tachyons.min.css' rel="stylesheet">
+<link href='/css/styles.css' rel="stylesheet">
+
+
+<link rel="icon" 
+ 
+  href='/favicon.ico'
+
+type="image/x-icon"/>
+
+<link href='/feed.xml' rel="alternate" type="application/atom+xml" title="shanedavis.net" />
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-75233516-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+</head>
+<body class="global-font">
+  <nav class=" justify-between border-box pa3 pl3-l pr2-l mt1 mt0-ns" id="navbar">
+  <div class="flex">
+    <a class="f4 fw6 ttu no-underline dim bg-main-color pv1 ph2 br2" id="site-title" href='/' title="Home">shanedavis.net</a>
+  </div>
+  
+</nav>
+  
+<main class="center mv4 content-width ph3">
+  <div class="f3 fw6 heading-color heading-font post-title">Visual Studio Code Font Settings</div>
+  <p class="silver f6 mt1 mb4 post-meta">
+    <time>24 Mar 2016</time> 
+     | 
+    
+    
+    tags: [ <a href='/tags/vscode' class="link silver">vscode</a>  ]
+    
+  </p>
+  <div class="lh-copy post-content"><p>Every time I setup a new device, one of the first applications I install is <a href="http://code.visualstudio.com/">Visual Studio Code</a>.
+Without fail, I always forget how to customize the font settings.</p>
+
+<p>Once Visual Studio Code is open, go to File &gt; Preferences &gt; User Settings. Then, you can override the JSON object. Remember: User Settings are per user. There&rsquo;s also an option for Workspace Settings, which are useful for when you want to only affect a specific project.</p>
+
+<pre><code class="language-json">// Controls the font family.
+&quot;editor.fontFamily&quot;: &quot;&quot;,
+// Controls the font size.
+&quot;editor.fontSize&quot;: 0
+</code></pre>
+
+<p>For new devices, I set it as such:</p>
+
+<pre><code class="language-json">&quot;editor.fontSize&quot;: 18
+</code></pre>
+</div>
+</main>
+ 
+
+
+
+
+
+
+
+
+<div class="pagination tc tr-l db fixed-l bottom-2-l right-2-l mb3 mb0-l">
+  
+<a id="scroll-to-top" class="f6 o-0 link br2 ph2 pv1 mb1 bg-main-color pointer" onclick="topFunction()" style="color: #fff; visibility: hidden; display: none; transition: opacity .5s, visibility .5s;" title="back to top">back to top</a>
+<br>
+  <p class="mb0 mt2">
+  <a href="https://shanedavis.net/posts/2016-01-20-performance-and-scalability-often-get-confused/">prev post</a>
+  <a href="https://shanedavis.net/posts/2016-12-14-when-is-software-architecture-done/">next post</a>
+  </p>
+</div>
+
+  <footer class="content-width mt0 mt5-l mb4 f6 center ph3 gray tc tl-l">
+  <hr class="dn db-l ml0-l gray w3"><br>
+  Powered by <a href="https://gohugo.io/" target="_blank" class="link gray dim">Hugo</a>, based on the <a href="https://github.com/lingxz/er" target="_blank" class="link gray dim">Er</a> theme. <br>
+  
+</footer>
+  
+
+
+
+
+
+
+<script type="text/javascript">
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+  var currentScrollPos = window.pageYOffset;
+
+  
+  if (document.getElementById("tag-cloud") !== null) { 
+    if (prevScrollpos > currentScrollPos) { 
+      document.getElementById("tag-cloud").style.visibility = "visible";
+      document.getElementById("tag-cloud").style.opacity = "1";
+    } else {
+      document.getElementById("tag-cloud").style.visibility = "hidden";
+      document.getElementById("tag-cloud").style.opacity = "0";
+    }
+  }
+  
+
+  
+  if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
+      document.getElementById("scroll-to-top").style.display = "inline";
+      document.getElementById("scroll-to-top").style.visibility = "visible";
+      document.getElementById("scroll-to-top").style.opacity = "1";
+  } else {
+      document.getElementById("scroll-to-top").style.visibility = "hidden";
+      document.getElementById("scroll-to-top").style.opacity = "0";
+  }
+  
+  prevScrollpos = currentScrollPos;
+}
+
+
+function topFunction() {
+  document.body.scrollTop = 0; 
+  document.documentElement.scrollTop = 0; 
+}
+
+
+
+
+
+
+
+</script>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on shanedavis.net</title>
+    <link>https://shanedavis.net/tags/blogs/</link>
+    <description>Recent content in Blogs on shanedavis.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shanedavis.net/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>14 Engineering Blogs I Love</title>
+      <link>https://shanedavis.net/posts/2017-03-31-14-engineering-blogs-i-love/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2017-03-31-14-engineering-blogs-i-love/</guid>
+      <description>I love technical engineering blogs. I find it fascinating and incredibly educational that individuals (and organizations) are willing to share the innermost personal details of the trials and tribulations of developing technology solutions. I especially enjoy when a team is willing to publish their personal failures and the lessons learned for all to see. There&amp;rsquo;s so much we can learn from the experiences of our peers.
+Kilim Choi maintains an awesome (and exhaustive) list of engineering blogs in a Github repo at https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

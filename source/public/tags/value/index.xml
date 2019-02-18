@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Value on shanedavis.net</title>
+    <link>https://shanedavis.net/tags/value/</link>
+    <description>Recent content in Value on shanedavis.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shanedavis.net/tags/value/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speed to Value, Not Speed to Project Delivery</title>
+      <link>https://shanedavis.net/posts/2015-05-29-speed-to-value-not-speed-to-project-delivery/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2015-05-29-speed-to-value-not-speed-to-project-delivery/</guid>
+      <description>To be successful in a Corporate IT environment, we need to measure speed in terms of the time it takes for the business to realize the expected business value and not in terms of the project start and completion dates.
+By exclusively rewarding IT teams for getting projects done &amp;ldquo;on time and on budget&amp;rdquo;, it fails to encourage the one thing business leaders most want from their Corporate IT teams: speed to deliver business value.</description>
+    </item>
+    
+  </channel>
+</rss>

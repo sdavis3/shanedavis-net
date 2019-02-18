@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on shanedavis.net</title>
+    <link>https://shanedavis.net/tags/</link>
+    <description>Recent content in Tags on shanedavis.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shanedavis.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Architecture</title>
+      <link>https://shanedavis.net/tags/architecture/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://shanedavis.net/tags/blogs/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://shanedavis.net/tags/cloud/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://shanedavis.net/tags/devops/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>https://shanedavis.net/tags/engineering/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns</title>
+      <link>https://shanedavis.net/tags/patterns/</link>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>https://shanedavis.net/tags/strategy/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value</title>
+      <link>https://shanedavis.net/tags/value/</link>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/value/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vscode</title>
+      <link>https://shanedavis.net/tags/vscode/</link>
+      <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/vscode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vsts</title>
+      <link>https://shanedavis.net/tags/vsts/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/tags/vsts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

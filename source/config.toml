@@ -1,0 +1,5 @@
+baseURL = "https://shanedavis.net/"
+languageCode = "en-us"
+title = "shanedavis.net"
+theme="er"
+googleAnalytics = "UA-75233516-1"

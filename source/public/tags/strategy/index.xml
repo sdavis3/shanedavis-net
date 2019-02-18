@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy on shanedavis.net</title>
+    <link>https://shanedavis.net/tags/strategy/</link>
+    <description>Recent content in Strategy on shanedavis.net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shanedavis.net/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Considerations for a Successful Multi-Cloud Strategy</title>
+      <link>https://shanedavis.net/posts/2019-01-16-considerations-for-a-successful-multi-cloud-strategy/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanedavis.net/posts/2019-01-16-considerations-for-a-successful-multi-cloud-strategy/</guid>
+      <description>According to RightScale&amp;rsquo;s 2018 State of the Cloud Report, 81% of enterprises have a multi-cloud strategy. Of those, 21% with a multi-cloud (also known as polynimbus) strategy, have designed it for use with multiple public clouds like Amazon Web Services, Google and Microsoft. More simply put, having a multi-cloud strategy, is an indication that an enterprise plan to use two or more cloud computing services.
+In 2019, the steps required to move an application to the cloud are commonly understood, though it may not always be simple.</description>
+    </item>
+    
+  </channel>
+</rss>
